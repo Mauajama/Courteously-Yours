@@ -10,3 +10,6 @@
 - **Affiliation:** Indian Institute of Technology Patna, India
 - **Corresponding Author:** Mauajama Firdaus (mauajama.pcs16@iitp.ac.in )
 - **Accepted:** Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2019
+
+- **Data**
+- The data can be downloaded from [CYCCD_data](https://drive.google.com/drive/folders/1rcqt4hj1AK8wYp7GXE2qw4L_YTmtv5LT?usp=sharing)
